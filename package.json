@@ -1,0 +1,26 @@
+{
+  "template": {
+    "inheridFrom": ["arlac77/template-root"],
+    "usedBy": [
+      "arlac77/template-github-action"
+    ],
+    "mergers": [
+      {
+        "type": "Readme",
+        "pattern": "README.md",
+        "options": {
+          "badges": [
+            {
+              "name": "GitHub Issues",
+              "icon": "https://img.shields.io/github/issues/{{github.user}}/{{github.repo}}.svg?style=flat-square",
+              "url": "https://github.com/{{github.user}}/{{github.repo}}/issues",
+              "order": 0.15
+            }
+          ]
+        }
+      }
+
+    ]
+  }
+
+}
