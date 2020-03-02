@@ -5,7 +5,8 @@
     ],
     "usedBy": [
       "arlac77/repository-provider",
-      "arlac77/template-github-action"
+      "arlac77/template-github-action",
+      "arlac77/uti"
     ],
     "mergers": [
       {
