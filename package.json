@@ -1,7 +1,10 @@
 {
   "template": {
-    "inheridFrom": ["arlac77/template-root"],
+    "inheridFrom": [
+      "arlac77/template-root"
+    ],
     "usedBy": [
+      "arlac77/repository-provider",
       "arlac77/template-github-action"
     ],
     "mergers": [
@@ -19,8 +22,6 @@
           ]
         }
       }
-
     ]
   }
-
 }
