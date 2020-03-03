@@ -4,6 +4,7 @@
       "arlac77/template-root"
     ],
     "usedBy": [
+      "arlac77/cache-repository-provider",
       "arlac77/content-entry",
       "arlac77/gitea-repository-provider",
       "arlac77/multi-path-matcher",
