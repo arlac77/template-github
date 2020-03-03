@@ -7,6 +7,7 @@
       "arlac77/cache-repository-provider",
       "arlac77/content-entry",
       "arlac77/gitea-repository-provider",
+      "arlac77/local-repository-provider",
       "arlac77/github-repository-provider",
       "arlac77/mock-repository-provider",
       "arlac77/multi-path-matcher",
