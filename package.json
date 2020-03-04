@@ -10,6 +10,7 @@
       "arlac77/chunk-tokenizer",
       "arlac77/component-manager",
       "arlac77/config-expander",
+      "arlac77/console-auth-provider",
       "arlac77/content-entry",
       "arlac77/entitlement-provider",
       "arlac77/gitea-repository-provider",
