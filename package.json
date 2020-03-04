@@ -5,6 +5,7 @@
     ],
     "usedBy": [
       "Kronos-Integration/kronos-cluster-node",
+      "Kronos-Integration/svelte-components",
       "arlac77/aggregation-repository-provider",
       "arlac77/bitbucket-repository-provider",
       "arlac77/bocf",
