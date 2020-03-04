@@ -44,6 +44,7 @@
       "arlac77/rpm-codec",
       "arlac77/rtsp-archive",
       "arlac77/scope-reporter",
+      "arlac77/sftp-resolver-fs",
       "arlac77/statetransition-mixin",
       "arlac77/svn-repository-provider",
       "arlac77/svn-simple-auth-provider",
