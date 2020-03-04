@@ -62,6 +62,7 @@
       "arlac77/svn-simple-auth-provider",
       "arlac77/symatem-infrastructure",
       "arlac77/system-dashboard",
+      "arlac77/system-dashboard-frontend",
       "arlac77/template-github-action",
       "arlac77/timeseries-sqlite2leveldb",
       "arlac77/url-cmd",
