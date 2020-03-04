@@ -21,6 +21,7 @@
       "arlac77/repository-provider",
       "arlac77/rtsp-archive",
       "arlac77/svn-repository-provider",
+      "arlac77/svn-simple-auth-provider",
       "arlac77/symatem-infrastructure",
       "arlac77/system-dashboard",
       "arlac77/template-github-action",
