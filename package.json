@@ -13,6 +13,7 @@
       "arlac77/console-auth-provider",
       "arlac77/content-entry",
       "arlac77/entitlement-provider",
+      "arlac77/fs-resolver-fs",
       "arlac77/gitea-repository-provider",
       "arlac77/github-repository-provider",
       "arlac77/hinted-tree-merger",
