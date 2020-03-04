@@ -4,6 +4,7 @@
       "arlac77/template-root"
     ],
     "usedBy": [
+      "Kronos-Integration/kronos-cluster-node",
       "arlac77/aggregation-repository-provider",
       "arlac77/cache-repository-provider",
       "arlac77/component-manager",
