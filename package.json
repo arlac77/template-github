@@ -22,6 +22,7 @@
       "arlac77/hinted-tree-merger",
       "arlac77/iterable-string-interceptor",
       "arlac77/keytar-auth-provider",
+      "arlac77/koa-github-hook-handler",
       "arlac77/kv-reader",
       "arlac77/local-repository-provider",
       "arlac77/log-stream-analyser",
