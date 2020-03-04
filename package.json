@@ -28,6 +28,7 @@
       "arlac77/iterable-string-interceptor",
       "arlac77/keytar-auth-provider",
       "arlac77/koa-github-hook-handler",
+      "arlac77/konsum-frontend-svelte",
       "arlac77/kv-reader",
       "arlac77/local-repository-provider",
       "arlac77/log-stream-analyser",
