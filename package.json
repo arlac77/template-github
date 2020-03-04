@@ -62,6 +62,7 @@
       "arlac77/svelte-guard-history-router",
       "arlac77/svelte-log-view",
       "arlac77/svelte-session-manager",
+      "arlac77/svelte-time-series",
       "arlac77/svn-dav-fs",
       "arlac77/svn-repository-provider",
       "arlac77/svn-simple-auth-provider",
