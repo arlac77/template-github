@@ -16,6 +16,7 @@
       "Kronos-Integration/service-health-check",
       "Kronos-Integration/service-http",
       "Kronos-Integration/service-ldap",
+      "Kronos-Integration/service-logger-gelf",
       "Kronos-Integration/svelte-components",
       "arlac77/aggregation-repository-provider",
       "arlac77/bitbucket-repository-provider",
