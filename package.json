@@ -54,6 +54,7 @@
       "arlac77/template-github-action",
       "arlac77/url-resolver-fs",
       "arlac77/uti",
+      "arlac77/x-expression",
       "k0nsti/konsum-db"
     ],
     "mergers": [
