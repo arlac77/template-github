@@ -18,6 +18,7 @@
       "arlac77/loglevel-mixin",
       "arlac77/mock-repository-provider",
       "arlac77/multi-path-matcher",
+      "arlac77/remove-sensible-values",
       "arlac77/repository-provider",
       "arlac77/rtsp-archive",
       "arlac77/svn-repository-provider",
