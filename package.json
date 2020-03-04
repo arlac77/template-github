@@ -7,6 +7,7 @@
       "Kronos-Integration/kronos-cluster-node",
       "arlac77/aggregation-repository-provider",
       "arlac77/bitbucket-repository-provider",
+      "arlac77/bocf",
       "arlac77/cache-repository-provider",
       "arlac77/chunk-tokenizer",
       "arlac77/component-manager",
