@@ -59,6 +59,7 @@
       "arlac77/sftp-resolver-fs",
       "arlac77/statetransition-mixin",
       "arlac77/svelte-common",
+      "arlac77/svelte-guard-history-router",
       "arlac77/svn-dav-fs",
       "arlac77/svn-repository-provider",
       "arlac77/svn-simple-auth-provider",
