@@ -22,6 +22,7 @@
       "arlac77/registry-mixin",
       "arlac77/repository-provider",
       "arlac77/rtsp-archive",
+      "arlac77/statetransition-mixin",
       "arlac77/scope-reporter",
       "arlac77/svn-repository-provider",
       "arlac77/svn-simple-auth-provider",
