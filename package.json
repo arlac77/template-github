@@ -18,6 +18,7 @@
       "arlac77/mock-repository-provider",
       "arlac77/multi-path-matcher",
       "arlac77/repository-provider",
+      "arlac77/rtsp-archive",
       "arlac77/svn-repository-provider",
       "arlac77/symatem-infrastructure",
       "arlac77/template-github-action",
