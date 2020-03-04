@@ -11,6 +11,7 @@
       "Kronos-Integration/kronos-cluster-node",
       "Kronos-Integration/service",
       "Kronos-Integration/service-admin",
+      "Kronos-Integration/service-authenticator",
       "Kronos-Integration/svelte-components",
       "arlac77/aggregation-repository-provider",
       "arlac77/bitbucket-repository-provider",
