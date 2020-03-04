@@ -24,7 +24,8 @@
       "arlac77/symatem-infrastructure",
       "arlac77/system-dashboard",
       "arlac77/template-github-action",
-      "arlac77/uti"
+      "arlac77/uti",
+      "k0nsti/konsum-db"
     ],
     "mergers": [
       {
