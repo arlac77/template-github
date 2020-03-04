@@ -34,6 +34,7 @@
       "arlac77/multi-path-matcher",
       "arlac77/npm-dep-graph",
       "arlac77/npm-package-walker",
+      "arlac77/npm-template-sync",
       "arlac77/registry-mixin",
       "arlac77/remove-sensible-values",
       "arlac77/repository-provider",
