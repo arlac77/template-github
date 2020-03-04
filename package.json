@@ -18,6 +18,7 @@
       "Kronos-Integration/service-ldap",
       "Kronos-Integration/service-logger-gelf",
       "Kronos-Integration/service-swarm",
+      "Kronos-Integration/service-systemd",
       "Kronos-Integration/svelte-components",
       "arlac77/aggregation-repository-provider",
       "arlac77/bitbucket-repository-provider",
