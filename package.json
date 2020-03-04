@@ -9,6 +9,7 @@
       "Kronos-Integration/interceptor-decode-json",
       "Kronos-Integration/interceptor-gzip",
       "Kronos-Integration/kronos-cluster-node",
+      "Kronos-Integration/service",
       "Kronos-Integration/svelte-components",
       "arlac77/aggregation-repository-provider",
       "arlac77/bitbucket-repository-provider",
