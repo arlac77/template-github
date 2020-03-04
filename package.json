@@ -4,6 +4,7 @@
       "arlac77/template-root"
     ],
     "usedBy": [
+      "Kronos-Integration/endpoint",
       "Kronos-Integration/kronos-cluster-node",
       "Kronos-Integration/svelte-components",
       "arlac77/aggregation-repository-provider",
