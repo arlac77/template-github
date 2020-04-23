@@ -68,7 +68,6 @@
       "arlac77/pratt-parser",
       "arlac77/registry-mixin",
       "arlac77/remove-sensible-values",
-      "arlac77/repository-provider",
       "arlac77/repository-provider-test-support",
       "arlac77/rpm-codec",
       "arlac77/rtsp-archive",
