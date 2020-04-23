@@ -90,9 +90,7 @@
       "arlac77/system-dashboard-frontend",
       "arlac77/template-github-action",
       "arlac77/timeseries-sqlite2leveldb",
-      "arlac77/url-cmd",
       "arlac77/url-resolver-fs",
-      "arlac77/x-expression",
       "k0nsti/konsum",
       "k0nsti/konsum-db"
     ],
