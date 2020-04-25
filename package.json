@@ -21,7 +21,6 @@
       "Kronos-Integration/service-systemd",
       "Kronos-Integration/service-uti",
       "Kronos-Integration/svelte-components",
-      "arlac77/bitbucket-repository-provider",
       "arlac77/bocf",
       "arlac77/cache-repository-provider",
       "arlac77/chunk-tokenizer",
