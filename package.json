@@ -66,7 +66,6 @@
       "arlac77/scope-reporter",
       "arlac77/sftp-resolver-fs",
       "arlac77/statetransition-mixin",
-      "arlac77/svelte-time-series",
       "arlac77/svelte-websocket-store",
       "arlac77/svn-dav-fs",
       "arlac77/svn-simple-auth-provider",
