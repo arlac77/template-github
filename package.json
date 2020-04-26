@@ -66,7 +66,6 @@
       "arlac77/scope-reporter",
       "arlac77/sftp-resolver-fs",
       "arlac77/statetransition-mixin",
-      "arlac77/svelte-common",
       "arlac77/svelte-guard-history-router",
       "arlac77/svelte-log-view",
       "arlac77/svelte-session-manager",
