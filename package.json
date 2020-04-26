@@ -42,7 +42,6 @@
       "arlac77/konsum-frontend-svelte",
       "arlac77/kv-reader",
       "arlac77/loglevel-mixin",
-      "arlac77/mkpr",
       "arlac77/model",
       "arlac77/model-attributes",
       "arlac77/mqtt-timeseries-leveldb",
