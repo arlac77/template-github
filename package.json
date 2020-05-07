@@ -9,6 +9,7 @@
       "Kronos-Integration/interceptor-decode-json",
       "Kronos-Integration/interceptor-gzip",
       "Kronos-Integration/kronos-cluster-node",
+      "Kronos-Integration/kronos-interceptor-line-parser",
       "Kronos-Integration/service",
       "Kronos-Integration/service-admin",
       "Kronos-Integration/service-authenticator",
