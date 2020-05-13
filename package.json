@@ -12,7 +12,6 @@
       "Kronos-Integration/interceptor-line-parser",
       "Kronos-Integration/service-authenticator",
       "Kronos-Integration/service-health-check",
-      "Kronos-Integration/service-logger-gelf",
       "Kronos-Integration/service-uti",
       "Kronos-Integration/svelte-components",
       "arlac77/bocf",
