@@ -13,7 +13,6 @@
       "Kronos-Integration/service-authenticator",
       "Kronos-Integration/service-health-check",
       "Kronos-Integration/service-logger-gelf",
-      "Kronos-Integration/service-systemd",
       "Kronos-Integration/service-uti",
       "Kronos-Integration/svelte-components",
       "arlac77/bocf",
