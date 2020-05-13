@@ -10,7 +10,6 @@
       "Kronos-Integration/interceptor-gzip",
       "Kronos-Integration/cluster-node",
       "Kronos-Integration/interceptor-line-parser",
-      "Kronos-Integration/service",
       "Kronos-Integration/service-admin",
       "Kronos-Integration/service-authenticator",
       "Kronos-Integration/service-consul",
