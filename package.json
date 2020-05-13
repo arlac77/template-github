@@ -15,7 +15,6 @@
       "Kronos-Integration/service-consul",
       "Kronos-Integration/service-health-check",
       "Kronos-Integration/service-http",
-      "Kronos-Integration/service-ldap",
       "Kronos-Integration/service-logger-gelf",
       "Kronos-Integration/service-systemd",
       "Kronos-Integration/service-uti",
