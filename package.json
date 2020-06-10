@@ -4,12 +4,13 @@
       "arlac77/template-root"
     ],
     "usedBy": [
+      "Kronos-Integration/cluster-node",
       "Kronos-Integration/endpoint",
       "Kronos-Integration/interceptor",
       "Kronos-Integration/interceptor-decode-json",
       "Kronos-Integration/interceptor-gzip",
-      "Kronos-Integration/cluster-node",
       "Kronos-Integration/interceptor-line-parser",
+      "Kronos-Integration/interceptor-webhook",
       "Kronos-Integration/service-uti",
       "Kronos-Integration/svelte-components",
       "arlac77/bocf",
