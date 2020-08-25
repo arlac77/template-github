@@ -20,7 +20,6 @@
       "arlac77/config-expander-cli",
       "arlac77/console-auth-provider",
       "arlac77/entitlement-provider",
-      "arlac77/entitlement-provider-frontend",
       "arlac77/env-auth-provider",
       "arlac77/expression-expander",
       "arlac77/fs-resolver-fs",
