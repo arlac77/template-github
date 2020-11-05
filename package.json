@@ -14,6 +14,7 @@
       "Kronos-Integration/interceptor-webhook",
       "Kronos-Integration/service-uti",
       "Kronos-Integration/svelte-components",
+      "Kronos-Integration/test-interceptor",
       "arlac77/bocf",
       "arlac77/chunk-tokenizer",
       "arlac77/config-expander",
