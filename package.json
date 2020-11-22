@@ -18,6 +18,7 @@
       "arlac77/entitlement-provider",
       "arlac77/hook-ci-frontend",
       "arlac77/keytar-auth-provider",
+      "arlac77/koa-github-hook-handler",
       "arlac77/kv-reader",
       "arlac77/loglevel-mixin",
       "arlac77/model",
