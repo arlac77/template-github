@@ -15,6 +15,7 @@
       "Kronos-Integration/service-uti",
       "Kronos-Integration/svelte-components",
       "Kronos-Integration/test-interceptor",
+      "arlac77/dns-playground",
       "arlac77/entitlement-provider",
       "arlac77/expression-expander",
       "arlac77/fs-resolver-fs",
