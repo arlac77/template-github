@@ -19,7 +19,6 @@
       "arlac77/hook-ci-frontend",
       "arlac77/keytar-auth-provider",
       "arlac77/node-symatem",
-      "arlac77/npm-dep-graph",
       "arlac77/npm-package-walker",
       "arlac77/npm-pkgbuild#multi_format",
       "arlac77/one-time-execution-method",
