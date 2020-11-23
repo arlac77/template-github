@@ -18,7 +18,6 @@
       "arlac77/entitlement-provider",
       "arlac77/hook-ci-frontend",
       "arlac77/keytar-auth-provider",
-      "arlac77/loglevel-mixin",
       "arlac77/model",
       "arlac77/model-attributes",
       "arlac77/mqtt-timeseries-leveldb",
