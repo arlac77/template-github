@@ -11,7 +11,6 @@
       "Kronos-Integration/interceptor-gzip",
       "Kronos-Integration/interceptor-line-parser",
       "Kronos-Integration/interceptor-stream",
-      "Kronos-Integration/interceptor-webhook",
       "Kronos-Integration/service-uti",
       "Kronos-Integration/svelte-components",
       "Kronos-Integration/test-interceptor",
