@@ -4,7 +4,6 @@
       "arlac77/template-root"
     ],
     "usedBy": [
-      "arlac77/hook-ci-frontend",
       "arlac77/keytar-auth-provider",
       "arlac77/symatemexplorer",
       "arlac77/template-github-action",
