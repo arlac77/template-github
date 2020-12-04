@@ -5,7 +5,6 @@
     ],
     "usedBy": [
       "Kronos-Integration/cluster-node",
-      "Kronos-Integration/endpoint",
       "Kronos-Integration/interceptor-stream",
       "Kronos-Integration/service-uti",
       "Kronos-Integration/svelte-components",
