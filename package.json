@@ -4,7 +4,6 @@
       "arlac77/template-root"
     ],
     "usedBy": [
-      "Kronos-Integration/cluster-node",
       "arlac77/entitlement-provider",
       "arlac77/hook-ci-frontend",
       "arlac77/keytar-auth-provider",
