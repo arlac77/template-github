@@ -6,7 +6,6 @@
     "usedBy": [
       "arlac77/hook-ci-frontend",
       "arlac77/keytar-auth-provider",
-      "arlac77/scope-reporter",
       "arlac77/symatemexplorer",
       "arlac77/template-github-action",
       "k0nsti/konsum",
