@@ -7,7 +7,6 @@
       "Kronos-Integration/cluster-node",
       "Kronos-Integration/interceptor-stream",
       "Kronos-Integration/svelte-components",
-      "Kronos-Integration/test-interceptor",
       "arlac77/entitlement-provider",
       "arlac77/hook-ci-frontend",
       "arlac77/keytar-auth-provider",
