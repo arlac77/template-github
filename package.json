@@ -6,8 +6,8 @@
     "usedBy": [
       "arlac77/symatemexplorer",
       "arlac77/template-github-action",
-      "k0nsti/konsum",
-      "k0nsti/konsum-db"
+      "konsumation/konsum",
+      "konsumation/konsum-db"
     ],
     "mergers": [
       {
